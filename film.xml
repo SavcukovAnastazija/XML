@@ -1,0 +1,101 @@
+<Filmovi>
+    <Film>
+        <Naslov>Doctor Strange in the Multiverse of Madness</Naslov>
+        <Trajanje>126</Trajanje>
+        <PocetakPrikazivanja>May</PocetakPrikazivanja>
+        <IMDBscore>7.3</IMDBscore>
+        <Zanrovi>
+            <Zanr>Action</Zanr>
+            <Zanr>Fantasy</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Senior Year</Naslov>
+        <Trajanje>111</Trajanje>
+        <PocetakPrikazivanja>May</PocetakPrikazivanja>
+        <IMDBscore>5.5</IMDBscore>
+        <Zanrovi>
+            <Zanr>Comedy</Zanr>
+            <Zanr>Drama</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>The Northman</Naslov>
+        <Trajanje>137</Trajanje>
+        <PocetakPrikazivanja>April</PocetakPrikazivanja>
+        <IMDBscore>7.4</IMDBscore>
+        <Zanrovi>
+            <Zanr>Action</Zanr>
+            <Zanr>Drama</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Everything Everywhere All At Once</Naslov>
+        <Trajanje>139</Trajanje>
+        <PocetakPrikazivanja>March</PocetakPrikazivanja>
+        <IMDBscore>5.5</IMDBscore>
+        <Zanrovi>
+            <Zanr>Comedy</Zanr>
+            <Zanr>Action</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Top Gun: Maverick</Naslov>
+        <Trajanje>131</Trajanje>
+        <PocetakPrikazivanja>May</PocetakPrikazivanja>
+        <IMDBscore>8.7</IMDBscore>
+        <Zanrovi>
+            <Zanr>Action</Zanr>
+            <Zanr>Drama</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>The Lost City</Naslov>
+        <Trajanje>112</Trajanje>
+        <PocetakPrikazivanja>March</PocetakPrikazivanja>
+        <IMDBscore>6.2</IMDBscore>
+        <Zanrovi>
+            <Zanr>Comedy</Zanr>
+            <Zanr>Action</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Uncharted</Naslov>
+        <Trajanje>116</Trajanje>
+        <PocetakPrikazivanja>February</PocetakPrikazivanja>
+        <IMDBscore>6.4</IMDBscore>
+        <Zanrovi>
+            <Zanr>Action</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Death on the Nile</Naslov>
+        <Trajanje>127</Trajanje>
+        <PocetakPrikazivanja>February</PocetakPrikazivanja>
+        <IMDBscore>6.3</IMDBscore>
+        <Zanrovi>
+            <Zanr>Crime</Zanr>
+            <Zanr>Mystery</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Redeeming Love</Naslov>
+        <Trajanje>134</Trajanje>
+        <PocetakPrikazivanja>January</PocetakPrikazivanja>
+        <IMDBscore>6.6</IMDBscore>
+        <Zanrovi>
+            <Zanr>History</Zanr>
+            <Zanr>Romance</Zanr>
+        </Zanrovi>
+    </Film>
+    <Film>
+        <Naslov>Turning Red</Naslov>
+        <Trajanje>100</Trajanje>
+        <PocetakPrikazivanja>March</PocetakPrikazivanja>
+        <IMDBscore>7.0</IMDBscore>
+        <Zanrovi>
+            <Zanr>Animation</Zanr>
+            <Zanr>Comedy</Zanr>
+        </Zanrovi>
+    </Film>
+</Filmovi>
